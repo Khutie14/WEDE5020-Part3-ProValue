@@ -8,7 +8,8 @@
 # WEDE5020 - Part 3 Practical POE
 # Created by: Kgutatso Nonkululeko Vannesa Mahlangu (ST10497619)
 
-# 📖 1. Project Overview
+
+# 📖  Project Overview
 This project is a fully functional multi-page website designed for ProValue Digital Solutions, a fictional professional digital services company.
 It demonstrates:
 
@@ -43,6 +44,7 @@ The website showcases:
 .Enquiry Form
 
 
+
 ## 📁 Project Folder Structure
 
 ```
@@ -72,11 +74,13 @@ WEDE5020-Part3-ProValue/
     └── posts.json
 ```
 
-# 🌍 3. GitHub link:
+
+# 🌍  GitHub link:
 
 https://github.com/Khutie14/WEDE5020-Part3-ProValue
 
-# 🧩 4. Features
+
+# 🧩  Features
 
 ✔ Multi-Page Professional Website
 
@@ -116,7 +120,8 @@ Semantic structure
 
 High-contrast hero text
 
-##  🧾 6. Changelog + Reasons for Changes
+
+##  🧾  Changelog + Reasons for Changes
 
 Below is the complete changelog documenting how the project evolved during development and why changes were made.
 
@@ -220,4 +225,46 @@ Added full documentation: overview, instructions, screenshots, changelog, featur
 # Reason
 
 A complete README improves scoring and helps demonstrate understanding of the entire build process.
+
+
+# ⚙️ Installation & Running the Project
+
+# Option 1 — Open Directly
+
+Simply open any .html file in a browser.
+
+# Option 2 — Run with VS Code Live Server
+Install Live Server extension
+
+Right-click index.html
+
+Click "Open with Live Server"
+
+# Option 3 — Run a local server
+python -m http.server 8000
+
+Open: http://localhost:8000
+
+
+# 💻  Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (ES6)
+
+JSON
+
+Responsive design
+
+Git & GitHub
+
+Python (for hero image generation)
+
+
+# 🏁 10. Conclusion
+
+This project demonstrates the complete ability to design, structure, style, and script a multi-page website using modern web technologies while following best practices in accessibility, responsiveness, file organisation, SEO, and documentation.
+It is ready for ZIP submission and GitHub upload.
 
