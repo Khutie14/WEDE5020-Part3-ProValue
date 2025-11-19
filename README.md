@@ -29,6 +29,7 @@ It demonstrates:
 .Ability to deploy to GitHub Pages
 
 The website showcases:
+
 .Proposal
 
 .Services
@@ -41,4 +42,32 @@ The website showcases:
 
 .Enquiry Form
 
+
+## 🗂️ 2. Project Folder Structure
+
+WEDE5020-Part3-ProValue/
+│
+├── index.html
+├── proposal.html
+├── services.html
+├── about.html
+├── case-studies.html
+├── contact.html
+├── enquiry.html
+│
+├── README.md
+├── robots.txt
+├── sitemap.xml
+├── .gitignore
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   │
+
+├── js/
+│   └── main.js
+│
+├── data/
+│   └── posts.json
 
