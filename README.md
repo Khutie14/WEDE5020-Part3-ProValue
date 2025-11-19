@@ -46,28 +46,52 @@ The website showcases:
 ## 🗂️ 2. Project Folder Structure
 
 WEDE5020-Part3-ProValue/
-│
-├── index.html
-├── proposal.html
-├── services.html
-├── about.html
-├── case-studies.html
-├── contact.html
-├── enquiry.html
-│
-├── README.md
-├── robots.txt
-├── sitemap.xml
-├── .gitignore
-│
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   │
+|
+|-- index.html
+|-- proposal.html
+|-- services.html
+|-- about.html
+|-- case-studies.html
+|-- contact.html
+|-- enquiry.html
+|
+|-- README.md
+|-- robots.txt
+|-- sitemap.xml
+|-- .gitignore
+|
+|-- assets/
+| |-- css/
+| | |-- styles.css
+|
+|-- js/
+| |-- main.js
+|
+|-- data/
+| |-- posts.json
 
-├── js/
-│   └── main.js
-│
-├── data/
-│   └── posts.json
+# 🌍 3. GitHub link:
+
+https://github.com/Khutie14/WEDE5020-Part3-ProValue
+
+# 🧩 4. Features
+✔ Multi-Page Professional Website
+Includes: Home, Proposal, Services, About, Case Studies, Contact, and Enquiry pages.
+✔ Responsive Layout
+Works on phone, tablet, and desktop
+Uses flexible units, media queries, and fluid layout
+✔ SEO Components
+robots.txt
+sitemap.xml
+Proper <meta> tags
+Canonical URLs
+✔ JavaScript Enhancements
+Form validation
+Accordion component
+Lightbox for images
+Dynamic content from JSON
+✔ Accessibility
+ARIA labels
+Semantic structure
+High-contrast hero text
 
