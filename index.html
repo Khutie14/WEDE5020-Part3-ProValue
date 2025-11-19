@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home – Business & Professional Value | ProValue Digital Solutions</title>
+  <meta name="description" content="ProValue Digital Solutions — professional web & digital services."/>
+  <link rel="canonical" href="https://yourdomain.org/">
+  <!-- Use root-relative paths to avoid path resolution issues -->
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar" aria-label="Main navigation">
+      <a href="/index.html" class="logo">ProValue Digital Solutions</a>
+      <ul class="nav-links">
+        <li><a href="/proposal.html">Proposal</a></li>
+        <li><a href="/services.html">Services</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/case-studies.html">Case Studies</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero" aria-labelledby="hero-heading">
+      <h1 id="hero-heading">Business & Professional Value Proposal</h1>
+      <p>Delivering credibility, visibility, and digital growth.</p>
+      <a href="/proposal.html" class="btn">View Proposal</a>
+    </section>
+
+    <section class="goals" aria-labelledby="goals-heading">
+      <h2 id="goals-heading">Key Goals</h2>
+      <ul>
+        <li>Build a professional-quality website that reflects credibility.</li>
+        <li>Ensure responsiveness for accessibility across devices.</li>
+        <li>Apply SEO strategies for increased reach.</li>
+        <li>Showcase full-stack development expertise.</li>
+      </ul>
+    </section>
+
+    <section class="search" aria-labelledby="search-heading">
+      <h2 id="search-heading">Search our services</h2>
+      <input id="searchServices" data-search-target=".service-item" placeholder="Search services..." aria-label="Search services">
+      <ul class="service-list">
+        <li class="service-item" data-name="web design">Web Design</li>
+        <li class="service-item" data-name="seo">SEO Optimization</li>
+        <li class="service-item" data-name="graphic design">Graphic Design</li>
+        <li class="service-item" data-name="training">Digital Training Workshops</li>
+        <li class="service-item" data-name="consulting">Business Consulting</li>
+      </ul>
+    </section>
+
+    <section class="posts" aria-labelledby="posts-heading">
+      <h2 id="posts-heading">Latest posts</h2>
+      <div id="posts" aria-live="polite">Loading posts…</div>
+      <button id="loadMorePosts" data-current-page="1" class="btn-secondary">Load more</button>
+    </section>
+
+    <section class="gallery" aria-labelledby="gallery-heading">
+      <h2 id="gallery-heading">Gallery</h2>
+      <div class="gallery-grid" role="list">
+        <!-- Put images at assets/images/thumb1.jpg etc. If not present, use placeholders -->
+        <img src="/assets/images/thumb1.jpg" data-large="/assets/images/large1.jpg" alt="Workshop - hands-on session" class="thumb" role="listitem">
+        <img src="/assets/images/thumb2.jpg" data-large="/assets/images/large2.jpg" alt="Volunteer meetup" class="thumb" role="listitem">
+      </div>
+    </section>
+
+    <section class="faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">FAQ</h2>
+      <button class="accordion-toggle" aria-expanded="false" aria-controls="faq1" id="faq-toggle-1">What services do you offer?</button>
+      <div id="faq1" class="accordion-panel" hidden>
+        <p>We offer web design, SEO, digital training and consultancy services tailored to small businesses and community organisations.</p>
+      </div>
+
+      <button class="accordion-toggle" aria-expanded="false" aria-controls="faq2" id="faq-toggle-2">Do you offer training workshops?</button>
+      <div id="faq2" class="accordion-panel" hidden>
+        <p>Yes — we run practical workshops on web basics, digital marketing and SEO. See our Services page for upcoming dates.</p>
+      </div>
+    </section>
+
+    <section class="cta" aria-labelledby="cta-heading">
+      <h2 id="cta-heading">Get in touch</h2>
+      <p>If you'd like to talk, <a href="/contact.html">contact us</a> or <a href="/enquiry.html">submit an enquiry</a>.</p>
+    </section>
+  </main>
+
+  <div id="lightbox" role="dialog" aria-hidden="true" hidden class="lightbox">
+    <div class="lightbox-inner">
+      <button id="lb-close" data-close-modal class="btn-close">Close</button>
+      <img id="lightbox-img" alt="" class="lightbox-img">
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>&copy; 2025 ProValue Digital Solutions</p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>
