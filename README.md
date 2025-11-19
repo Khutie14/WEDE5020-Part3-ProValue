@@ -268,3 +268,29 @@ Python (for hero image generation)
 This project demonstrates the complete ability to design, structure, style, and script a multi-page website using modern web technologies while following best practices in accessibility, responsiveness, file organisation, SEO, and documentation.
 It is ready for ZIP submission and GitHub upload.
 
+
+
+# 📚 References 
+
+- Mozilla Developer Network (MDN). (2025) *ARIA: Accessible Rich Internet Applications*. Available at: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA (Accessed: 18 November 2025).
+
+- Mozilla Developer Network (MDN). (2025) *HTML: HyperText Markup Language*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 18 November 2025).
+
+- Mozilla Developer Network (MDN). (2025) *JavaScript Guide*. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 18 November 2025).
+
+- Mozilla Developer Network (MDN). (2025) *Responsive Design Basics*. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design (Accessed: 18 November 2025).
+
+- Mozilla Developer Network (MDN). (2025) *Using the Fetch API*. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch (Accessed: 18 November 2025).
+
+- Search Engine Journal. (2024) *How to Create a Sitemap (Guide)*. Available at: https://www.searchenginejournal.com/create-sitemap/ (Accessed: 18 November 2025).
+
+- Search Engine Journal. (2024) *SEO Basics: Understanding Robots.txt*. Available at: https://www.searchenginejournal.com/seo-guide/robots-txt/ (Accessed: 18 November 2025).
+
+- W3C. (2023) *HTML Living Standard Guidelines*. Available at: https://html.spec.whatwg.org/ (Accessed: 18 November 2025).
+
+- W3C. (2024) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 18 November 2025).
+
+- W3Schools. (2025) *CSS Tutorial*. Available at: https://www.w3schools.com/css/ (Accessed: 18 November 2025).
+
+- W3Schools. (2025) *JavaScript Form Validation*. Available at: https://www.w3schools.com/js/js_validation.asp (Accessed: 18 November 2025).
+
